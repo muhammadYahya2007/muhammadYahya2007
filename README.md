@@ -39,13 +39,13 @@
             <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media&token=5d196928-848c-433b-b332-c91e7714ab74">
         </td>
         <td align='center'>
-            <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
+            <img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e15b7842/LangGraph_icon.png">
         </td>
         <td align='center'>
-            <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0zEvm5Sd9iPITpDmhYa2orUP4gAkvig72vw&s">
         </td>
         <td align='center'>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+            <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png">
         </td>
     </tr>
 </table>
