@@ -78,9 +78,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yahya-muhammad-21923831b/"><img src="https://img.shields.io/badge/-Muhammad Yahya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-yahyanadeem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/itx_yahya_05/"><img src="https://img.shields.io/badge/-@Muhammad Yahya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
